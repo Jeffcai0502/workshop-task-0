@@ -46,7 +46,7 @@ Move with mouse
 - A thick, magenta outline
 <img width="1124" alt="截屏2025-01-27 下午10 45 11" src="https://github.com/user-attachments/assets/caae5f7f-9dd2-41cb-ac91-9be502e0a0c7" />
 
-
+- One end of the line follows the mouse
 <img width="1176" alt="截屏2025-01-27 下午11 25 09" src="https://github.com/user-attachments/assets/7ddb4134-9de8-43bd-8ec0-998ed95662ef" />
-
+- Added the square to also follow the mouse.
 <img width="1393" alt="截屏2025-01-27 下午11 27 59" src="https://github.com/user-attachments/assets/964fda3b-4729-479e-a403-eb2378d01618" />
