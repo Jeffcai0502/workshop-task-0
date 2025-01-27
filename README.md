@@ -1,6 +1,12 @@
 # workshop-task-0
 FA205_Workshop_0 Start of coding
 # URL: 
+## Task
+- Create a p5.js editor that links to an external site. Login and sign up to the Processing Foundation's forumLinks to an external site.
+  - User name: jcai232
+  - Name: nico
+- Make a p5.js sketch using 2D primitive shapes, variables, and conditionals. Make sure to save your work.
+- Experiment with at least one of the following 2D primitive shapes from the p5.js documentation. Links to an external site.: line, triangle, quad, arc.
 
 ## Note: 
 
