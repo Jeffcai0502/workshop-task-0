@@ -12,9 +12,18 @@ FA205_Workshop_0 Start of coding
 
 - Called task-0 because in coding, number started from 0
 - Program used: JAVASCRIPT. P5JS
-- P5 maintain by processionfoundation.org founded 2012 - nonprofit. Software = open source
+- P5 maintain by processionfoundation.org, open source nonprofit. Software
 - background，（0is black, 255 white)
 - (0,0,0) to (250,250,250). Red, Green, Blue
+  
+### Usefull Web 
+- [p5js.org/reference/](https://p5js.org/reference/)
+- [Discourse.processing.org](https://discourse.processing.org)
+- [The coding train youtube chanel](https://youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&si=5gm0hkZ5nH9t3t9X)
+
+### Tool
+- P5Js https://editor.p5js.org
+
 
 
 ## Practise:
