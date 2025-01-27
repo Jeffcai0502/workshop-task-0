@@ -15,7 +15,11 @@ Move with mouse
 ## Experiment with other shape:
 - triangle
 <img width="1124" alt="截屏2025-01-27 下午10 42 48" src="https://github.com/user-attachments/assets/3e0a3708-1138-4bdc-809a-417e01dce7d3" />
+- rotating triangle
+<img width="1176" alt="截屏2025-01-27 下午11 07 49" src="https://github.com/user-attachments/assets/ee65d238-d080-48cf-9b5c-228436a103ff" />
 
 - line
 <img width="1124" alt="截屏2025-01-27 下午10 43 52" src="https://github.com/user-attachments/assets/a2053d74-cf26-480b-a832-d5ace7bf2f7b" />
+
+A thick, magenta outline
 <img width="1124" alt="截屏2025-01-27 下午10 45 11" src="https://github.com/user-attachments/assets/caae5f7f-9dd2-41cb-ac91-9be502e0a0c7" />
