@@ -13,13 +13,18 @@ Move with mouse
 <img width="1124" alt="截屏2025-01-27 下午10 25 18" src="https://github.com/user-attachments/assets/574e3fed-14d3-431b-b990-ad770ee6c69b" />
 
 ## Experiment with other shape:
-- triangle
+- Triangle
 <img width="1124" alt="截屏2025-01-27 下午10 42 48" src="https://github.com/user-attachments/assets/3e0a3708-1138-4bdc-809a-417e01dce7d3" />
-- rotating triangle
+- Rotating triangle
 <img width="1176" alt="截屏2025-01-27 下午11 07 49" src="https://github.com/user-attachments/assets/ee65d238-d080-48cf-9b5c-228436a103ff" />
 
 - line
 <img width="1124" alt="截屏2025-01-27 下午10 43 52" src="https://github.com/user-attachments/assets/a2053d74-cf26-480b-a832-d5ace7bf2f7b" />
 
-A thick, magenta outline
+- A thick, magenta outline
 <img width="1124" alt="截屏2025-01-27 下午10 45 11" src="https://github.com/user-attachments/assets/caae5f7f-9dd2-41cb-ac91-9be502e0a0c7" />
+
+
+<img width="1176" alt="截屏2025-01-27 下午11 25 09" src="https://github.com/user-attachments/assets/7ddb4134-9de8-43bd-8ec0-998ed95662ef" />
+
+<img width="1393" alt="截屏2025-01-27 下午11 27 59" src="https://github.com/user-attachments/assets/964fda3b-4729-479e-a403-eb2378d01618" />
