@@ -24,6 +24,14 @@ FA205_Workshop_0 Start of coding
 ### Tool
 - P5Js https://editor.p5js.org
 
+## Overview
+- Experimented with squares
+- Experimented with colors
+- Following the mouse
+- Experiment with other shape.
+- Rotating triangle.
+- Combination of lines, Square, Mouse following.
+
 
 
 ## Practise:
@@ -46,7 +54,7 @@ Move with mouse
 - A thick, magenta outline
 <img width="1124" alt="截屏2025-01-27 下午10 45 11" src="https://github.com/user-attachments/assets/caae5f7f-9dd2-41cb-ac91-9be502e0a0c7" />
 
-- One end of the line follows the mouse
+- One end of the line follows the mouse, compared to still image, i really like a more user engaging art.
 <img width="1176" alt="截屏2025-01-27 下午11 25 09" src="https://github.com/user-attachments/assets/7ddb4134-9de8-43bd-8ec0-998ed95662ef" />
 - Added the square to also follow the mouse.
 <img width="1393" alt="截屏2025-01-27 下午11 27 59" src="https://github.com/user-attachments/assets/964fda3b-4729-479e-a403-eb2378d01618" />
