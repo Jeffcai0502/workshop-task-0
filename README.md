@@ -8,7 +8,14 @@ FA205_Workshop_0 Start of coding
 - Make a p5.js sketch using 2D primitive shapes, variables, and conditionals. Make sure to save your work.
 - Experiment with at least one of the following 2D primitive shapes from the p5.js documentation. Links to an external site.: line, triangle, quad, arc.
 
-## Note: 
+## Workshop Notes
+
+- Called task-0 because in coding, number started from 0
+- Program used: JAVASCRIPT. P5JS
+- P5 maintain by processionfoundation.org founded 2012 - nonprofit. Software = open source
+- background，（0is black, 255 white)
+- (0,0,0) to (250,250,250). Red, Green, Blue
+
 
 ## Practise:
 Created a 200x200 canvas, i wanted to experiment with low res mosaic。
